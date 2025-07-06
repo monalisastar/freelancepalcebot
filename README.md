@@ -1,13 +1,30 @@
-# Sample Hardhat Project
+<p align="center">
+  <img src="freelancepalacebot-banner.png" alt="FreelancePalaceBot Banner" />
+</p>
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+# FreelancePalaceBot 🤖🛠️
 
-Try running some of the following tasks:
+A smart contract-powered Discord bot for managing ticket-based workflows, support channels, and task coordination within Web3 ecosystems.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+## 🔧 Features
+- 🎫 Automated ticket creation and closure
+- 🧾 On-chain smart contract linking
+- 🔒 Role-based access
+- 🌐 DAO and freelance integration
+- 📦 Modular: Contracts, Scripts, Cogs, Database
+
+## 📁 Folder Structure
+- `contracts/` – Solidity smart contracts
+- `cogs/` – Discord bot extensions
+- `scripts/` – Automation scripts
+- `test/` – Bot and contract tests
+
+## 🛠️ Tech Stack
+- Discord.js
+- Node.js
+- Solidity
+- Hardhat
+
+
+
+👑 Designed for **Freelancers Palace** ecosystem.
